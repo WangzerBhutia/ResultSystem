@@ -24,6 +24,7 @@ public class Result extends HttpServlet
 		}
 		catch(SQLException se)
 		{
+			System.out.println(se);
 		}
 	}
 }
