@@ -1,0 +1,39 @@
+body
+{
+	margin:0px;
+	padding:0px;
+	background-color:orange;
+}
+#content
+{
+	background:black;
+	height:400px;
+	width:400px;
+	border-radius:20px;
+	margin-left:440px;
+	margin-top:140px;
+}
+#content form
+{
+	margin-left:40px;
+}
+#content table tr td
+{
+		color:orange;
+		padding-top:37px;
+}
+#content form table input
+{
+	height:40px;
+	width:300px;
+	margin-top:20px;
+	border:0px;
+	border-radius:20px;
+	font-size:20px;
+	text-align:center;
+}
+#content form table #submit:hover
+{
+	background-color:orange;
+	cursor:pointer;
+}

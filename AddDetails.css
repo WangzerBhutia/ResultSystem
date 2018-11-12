@@ -1,0 +1,43 @@
+body
+{
+	padding:0px;
+	margin:0px;
+	background-color:orange;
+}
+table
+{
+	font-size:24px;
+	padding:40px;
+}
+table tr td input
+{
+	height:10px;
+	padding:20px;
+	margin-top:7px;
+	font-size:20px;
+	border:0px;
+	border-radius:10px;
+	text-align:center;
+}
+table tr td input:hover
+{
+	background:black;
+	color:orange;
+}
+#submit
+{
+	height:50px;
+	width:400px;
+	background:black;
+	color:orange;
+	border:0px;
+	border-radius:10px;
+	margin-left:700px;
+	font-size:30px;
+}
+#submit:hover
+{
+	cursor:pointer;
+	height:60px;
+	width:500px;
+}
